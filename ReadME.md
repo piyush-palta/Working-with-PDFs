@@ -10,14 +10,17 @@ To use the project you just need a PDF and some customization need. Currently, s
 
 ### Prerequisites
 
-You need to install the following software, refer to the links corresponding to know more
+You need to install the following software
 
 ```
-Python  [Setting up Python](https://docs.python.org/3/using/index.html)
-Pip		[Installing pip](https://pip.pypa.io/en/stable/installing/)
-PyPDF2  [PyPDF2](https://github.com/mstamy2/PyPDF2/)
+Python  
+Pip		
+PyPDF2
 ```
-
+Refer the following to know more: <br>
+[Setting up Python](https://docs.python.org/3/using/index.html) <br> 
+[Installing pip](https://pip.pypa.io/en/stable/installing/) <br>
+[PyPDF2](https://github.com/mstamy2/PyPDF2/) <br>
 ### About PyPDF2
 
 PyPDF2 is a pure-python PDF library capable of splitting, merging together, cropping, and transforming the pages of PDF files. It can also add custom data, viewing options, and passwords to PDF files. It can retrieve text and metadata from PDFs as well3d as merge entire files together.
